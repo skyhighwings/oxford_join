@@ -59,8 +59,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Acknowledgements
 
 I'd like to thank [Shamus Peveril](https://github.com/speveril) for inspiring
-this and implementing it in Javascript long before I had even begun to write
-code. He's awesome, everyone. An inspiration to us all.
+this and implementing it in Javascript ~~before the beginning of time~~ ~~before I was born~~ ~~long before I had even begun to write code~~ a while ago. He's awesome, everyone. An inspiration to us all.
 
 ## Contributing
 
